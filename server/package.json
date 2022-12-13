@@ -8,7 +8,7 @@
   "author": "bao le",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "request": "^2.81.0",
     "socket.io": "^2.0.4"
   }
